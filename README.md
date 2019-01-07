@@ -16,8 +16,10 @@ Summary: Python function signatures from PEP362 for Python 2.6, 2.7 and 3.2+.
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/funcsigs-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/funcsigs-feedstock)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/funcsigs-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/funcsigs-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/funcsigs-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/funcsigs-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/funcsigs-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/funcsigs-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c32e72fd1578b0700306480/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/funcsigs-feedstock)
 
 Current release info
 ====================
